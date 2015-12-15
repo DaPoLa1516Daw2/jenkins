@@ -21,7 +21,7 @@ public class Jenkins {
             bw.write("<html>");bw.newLine();
             bw.write("  <head>");bw.newLine();
             bw.write("    <title>");bw.newLine();
-            bw.write("      Treballant amb l'IC Jenkins");bw.newLine();
+            bw.write("      Treballant amb subversion");bw.newLine();
             bw.write("    </title>");bw.newLine();
             bw.write("  </head>");bw.newLine();
             bw.write("  <body>");bw.newLine();
